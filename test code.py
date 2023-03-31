@@ -10,7 +10,7 @@ else:
 print('----------------------------------')
 print('----------------------------------')
 
-for i in range(10+1):
+for i in range(1,11):
     if i == 5:
         print("i sama dengan 5")
     else:
